@@ -6,9 +6,7 @@ apt install mysql-server
 
 mysql_secure_installation
 
-Inn06oxes4u
-
-Innoppl_90
+Mysql_90
 
 apt install -y software-properties-common
 
